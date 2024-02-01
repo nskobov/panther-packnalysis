@@ -6,4 +6,7 @@ PackDefinition:
   IDs:
     # Rules:
     - My.RuleOne
+    - My.RuleTwo
+    # CorrelationRules:
+    - MyCorrelation.One
 
