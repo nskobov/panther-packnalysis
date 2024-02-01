@@ -1,0 +1,10 @@
+AnalysisType: rule
+Description: Aaaaaaaa
+DisplayName: My Rule Two
+Enabled: true
+Filename: myruletwo.py
+Severity: Medium
+LogTypes:
+  - Auth0.Events
+RuleID: My.RuleTwo
+
