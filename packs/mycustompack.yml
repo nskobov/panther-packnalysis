@@ -1,0 +1,9 @@
+AnalysisType: pack
+PackID: My.Custom.Pack
+DisplayName: "Panther Custom Pack"
+Description: This is a pack
+PackDefinition:
+  IDs:
+    # Rules:
+    - My.RuleOne
+
