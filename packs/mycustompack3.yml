@@ -1,0 +1,12 @@
+AnalysisType: pack
+PackID: My.Custom.PackThree
+DisplayName: "Panther Custom Pack Threee"
+Description: This is a packthree
+PackDefinition:
+  IDs:
+    # Rules:
+    - My.RuleOne
+    - My.RuleTwo
+    # CorrelationRules:
+    - MyCorrelation.One
+
