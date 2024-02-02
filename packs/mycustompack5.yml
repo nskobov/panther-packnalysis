@@ -1,7 +1,7 @@
 AnalysisType: pack
-PackID: My.Custom.PackFour
-DisplayName: "Panther Custom Pack Foouuur"
-Description: This is a packfour
+PackID: My.Custom.PackFive
+DisplayName: "Panther Custom Pack Fiveeeee"
+Description: This is a packfive
 PackDefinition:
   IDs:
     # Rules:
