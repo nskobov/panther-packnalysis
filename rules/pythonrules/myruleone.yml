@@ -1,6 +1,6 @@
 AnalysisType: rule
-Description: Aaaaaaaa
-DisplayName: My Rule One
+Description: Aaaaaaaa One
+DisplayName: My Rule Oooooone
 Enabled: true
 Filename: myruleone.py
 Severity: Medium
