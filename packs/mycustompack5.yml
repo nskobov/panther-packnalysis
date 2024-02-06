@@ -12,5 +12,5 @@ PackDefinition:
     # DerivedRules:
     # - DerivedOne
     # CorrelationRules:
-    - MyCorrelation.One
+    - MyCorrelation.Onee
 
