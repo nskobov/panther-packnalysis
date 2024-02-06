@@ -1,7 +1,7 @@
 AnalysisType: pack
-PackID: My.Custom.PackFive
-DisplayName: "Panther Custom Pack Fiveeeee"
-Description: This is a packfive
+PackID: My.Custom.PackSix
+DisplayName: "Panther Custom Pack Six"
+Description: This is a packsix
 PackDefinition:
   IDs:
     # Rules:
@@ -12,5 +12,5 @@ PackDefinition:
     # DerivedRules:
     # - DerivedOne
     # CorrelationRules:
-    - MyCorrelation.Onee
+    - MyCorrelation.Oneee
 
