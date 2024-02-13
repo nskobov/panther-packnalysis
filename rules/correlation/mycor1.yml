@@ -1,6 +1,6 @@
 AnalysisType: correlation_rule
-RuleID: "MyCorrelation.Oneee"
-DisplayName: "My Correlation Oneee"
+RuleID: "MyCorrelation.OneSeven"
+DisplayName: "My Correlation OneSeven"
 Enabled: true
 Severity: High
 Detection:

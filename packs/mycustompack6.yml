@@ -1,0 +1,8 @@
+AnalysisType: pack
+PackID: My.Custom.PackThatWillBreakEverything
+DisplayName: "Panther Custom Pack that will break stuff dont enable this"
+Description: This is a packbreak
+PackDefinition:
+  IDs:
+    - panther_base_helpers
+
