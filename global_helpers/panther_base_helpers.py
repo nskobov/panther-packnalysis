@@ -14,6 +14,7 @@ from panther_config import config
 #       Exceptions        #
 # # # # # # # # # # # # # #
 
+# this was introduced in v6.0.2
 
 class PantherUnexpectedAlert(Exception):
     """Error returned when a Panther detection encounters an unexpected situation."""
